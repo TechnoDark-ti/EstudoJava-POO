@@ -11,10 +11,10 @@ public class ProjetoYoutube {
         v[2] = new Video("Porno Anão Gay");
         
         Aluno g[] = new Aluno[2];
-        /**
-        g[0] = new Aluno("Márcio Moda", 21, "Masculino", "Semi Jr");
-        g[1] = new Aluno();
-        **/
+        
+        
+        
+        
         System.out.println();
         
     }
